@@ -1,0 +1,13 @@
+Component,Quantity,Purpose
+ESP32 DevKit V1,1,Main controller
+DHT22,1,Temperature monitoring
+Potentiometer Module,1,Smoke level simulation
+Flame Sensor Module,1,Flame detection
+Piezo Buzzer,1,Emergency alarm
+Green LED,1,Safe mode indication
+Yellow LED,1,Warning mode indication
+Red LED,1,Fire emergency indication
+220 Ohm Resistor,3,LED current limiting
+Servo Motor,1,Emergency response simulation
+Relay Module,1,Emergency equipment control
+Jumper Wires,As required,Circuit connections
