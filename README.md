@@ -137,6 +137,14 @@ The Wokwi circuit configuration and wiring information are available in:
 
 ---
 
+## 🏗️ System Architecture
+
+The system architecture below illustrates how the ESP32 continuously monitors the surrounding environment using the flame sensor and MQ-2 smoke sensor. The ESP32 processes the sensor readings, compares them with predefined threshold values, and determines whether a fire hazard is present. When a fire or smoke condition is detected, the system activates the visual and audible alarms, controls the relay module to simulate emergency response actions, and updates the system status in real time. This enables rapid fire detection, immediate alert generation, and reliable monitoring for enhanced safety.
+
+![System Architecture](System_Architecture.png)
+
+---
+
 ## 📄 Schematic Diagram
 
 The complete schematic and GPIO wiring connection diagram is available here:
