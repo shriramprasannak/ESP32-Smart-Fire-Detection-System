@@ -85,7 +85,18 @@ During Fire Emergency Mode:
 
 ![Fire Emergency Output](Fire_Emergency_Output.png)
 
----
+### 🆕 Fire Emergency Mode (Version 2.0)
+
+The fire emergency response has been enhanced with improved system status reporting and automatic emergency response logic.
+
+**Enhancements:**
+- Intelligent fire detection logic
+- Improved Serial Monitor output
+- Automatic relay activation
+- Servo rotates to 90° to simulate sprinkler deployment
+- Enhanced emergency response indication
+
+![Fire Emergency Output V2](Fire_Mode_V2.png)
 
 ## ⚙️ Working Principle
 
